@@ -5,7 +5,7 @@
 ### How to contact me:
 
 
-Skills: VUE JS / JS / HTML / CSS / MongoDB / PHP
+Skills: VUE JS / JS / HTML / CSS / Tailwind CSS / Pinia 
 
 - 🔭 I’m currently working on this page. 
 
